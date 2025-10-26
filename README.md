@@ -1,3 +1,25 @@
-# Atlantis-Dash
-ATLANTIS DASH: Jogo desenvolvido em C e [SDL2 / Raylib], ambientado nas profundezas do fundo do mar. Desvie dos peixes para alcançar sua maior pontuação.
-🌊 Atlantis Dash: A Travessia SubmarinaEste projeto da jogabilidade viciante e infinita , transportada para o desafiador e belo ambiente do fundo do mar. Desenvolvido em linguagem C com foco em otimização e performance de baixo nível.🐠 O ConceitoO objetivo é simples: o jogador deve avançar através de uma série infinita de "faixas" que, neste cenário, são representadas por correntes e colunas de água com velocidades variáveis.Inspiração: A mecânica de movimento e a perspectiva $3/4$ (isométrica).Cenário: Ambientes aquáticos.Obstáculos: animais e elementos presentes no fundo do mar.🛠️ Tecnologias UtilizadasLinguagem Principal: CBiblioteca Gráfica/Multimídia: [SDL2 / Raylib] Como Jogar (A Ser Implementado)Movimento: Use as setas (ou WASD) para saltar para frente, para trás e para os lados.Objetivo: Sobreviver o máximo de tempo possível (atingir a maior profundidade) sem colidir com os obstáculos móveis.
+# Atlantis Dash🌊
+**Atlantis Dash** é um jogo de ação arcade para um jogador onde cada movimento conta. Guie seu personagem por traiçoeiras rotas oceânicas, planejando seu caminho para desviar de predadores famintos e obstáculos mortais. O objetivo é sobreviver e completar dois níveis desafiadores, usando apenas sua astúcia e reflexos.
+
+<details>
+  <summary><h2>Ferramentas Utilizadas⚒️</h2></summary>
+  
+  - **Linguagem:** C (C99)
+  - **Biblioteca Gráfica:** [Raylib](https://www.raylib.com/)
+  - **IDE:** VS Code
+  - **Controle de Versão:** GitHub
+</details>
+
+<details>
+  <summary><h2>Equipe de Desenvolvedores👥</h2></summary>
+
+  Esse jogo foi desenvolvido por estudantes da Cesar School, para a disciplina de Programação Imperativa Funcional!
+
+  - **Desenvolvedores:**
+  - Rodrigo Paiva
+  - Maria Luísa Muniz
+  - Hélio de Morais
+  - Pedro Coutinho
+  
+
+</details>
