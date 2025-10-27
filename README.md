@@ -15,11 +15,11 @@
 
   Esse jogo foi desenvolvido por estudantes da Cesar School, para a disciplina de Programação Imperativa Funcional!
 
-  - **Desenvolvedores:**
-  - Rodrigo Paiva
-  - Maria Luísa Muniz
-  - Hélio de Morais
-  - Pedro Coutinho
+**Desenvolvedores:**
+  - Rodrigo Paiva - https://github.com/rodrigopaiva06
+  - Maria Luísa Muniz -
+  - Hélio de Moraes -
+  - Pedro Coutinho - https://github.com/Pedro-Coutinho2612
   
 
 </details>
