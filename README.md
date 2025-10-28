@@ -17,9 +17,7 @@
 
 **Desenvolvedores:**
   - Rodrigo Paiva - https://github.com/rodrigopaiva06
-  - Maria Luísa Muniz -
-  - Hélio de Moraes -
+  - Maria Luísa Muniz - https://github.com/mldm2-art
+  - Hélio de Moraes - https://github.com/helioblaster
   - Pedro Coutinho - https://github.com/Pedro-Coutinho2612
-  
-
 </details>
