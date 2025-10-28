@@ -7,7 +7,7 @@
   - **Linguagem:** C (C99)
   - **Biblioteca Gráfica:** [Raylib](https://www.raylib.com/)
   - **IDE:** [VS Code](https://code.visualstudio.com/)
-  - **Ambiente de Desenvolvimento:** Linha de comando em **Linux** (via WSL) ou **macOS**.
+  - **Ambiente de Desenvolvimento:** Linha de comando em **Linux** (via WSL) ou **macOS**
   - **Controle de Versão:** GitHub
 </details>
 
