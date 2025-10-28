@@ -3,10 +3,11 @@
 
 <details>
   <summary><h2>Ferramentas Utilizadas⚒️</h2></summary>
-  
+
   - **Linguagem:** C (C99)
   - **Biblioteca Gráfica:** [Raylib](https://www.raylib.com/)
-  - **IDE:** VS Code
+  - **IDE:** [VS Code](https://code.visualstudio.com/)
+  - **Ambiente de Desenvolvimento:** Linha de comando em **Linux** (via WSL) ou **macOS**.
   - **Controle de Versão:** GitHub
 </details>
 
